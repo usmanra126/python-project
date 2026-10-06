@@ -286,7 +286,7 @@ class teacher(student):
     def __init__(self):
             super().__init__() #super method
             print("constructor are callled")
-    salary=120000       
+    salary=12000       
 
 obj=person()
 print(obj.age)
